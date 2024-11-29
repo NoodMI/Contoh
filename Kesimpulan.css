@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #6bbcff;
+}
+
+img{
+    width: 1366px;;
+    height: 200px;
+    background-size: cover;
+    padding: 0;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0;
+    background-color: #1395ff;
+    overflow: hidden;
+    margin: auto;
+    font-family: 'Braah One';
+    font-size: 20px;
+}
+
+li{
+    float: left;
+    text-align: center;
+    margin: 0 55px;
+}
+
+li a{
+    display: block;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 8px 20px;
+}
+
+h1{
+    font-family: 'Braah One';
+    margin-left: 90px;
+    margin-right: 90px;
+    text-align: center;
+    border-style: dashed;
+    border-radius: 5%;
+}
